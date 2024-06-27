@@ -12,3 +12,5 @@ static/data.json
 static/hub-index-data.json
 # The build version of spin up hub
 spin-up-hub/dist/
+# The documentation migration backup files
+migration_scripts/content_backup/
